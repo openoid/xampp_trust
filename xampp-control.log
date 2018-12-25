@@ -1,0 +1,1396 @@
+8:53:34 PM  [main] 	Initializing Control Panel
+8:53:34 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:53:34 PM  [main] 	XAMPP Version: 7.2.12
+8:53:34 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:53:34 PM  [main] 	You are not running with administrator rights! This will work for
+8:53:34 PM  [main] 	most application stuff but whenever you do something with services
+8:53:34 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:53:34 PM  [main] 	about running this application with administrator rights!
+8:53:34 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:53:35 PM  [main] 	Checking for prerequisites
+8:53:43 PM  [main] 	All prerequisites found
+8:53:43 PM  [main] 	Initializing Modules
+8:53:43 PM  [Apache] 	Problem detected!
+8:53:43 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:53:43 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:53:43 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:53:43 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:53:43 PM  [main] 	Starting Check-Timer
+8:53:43 PM  [main] 	Control Panel Ready
+8:53:47 PM  [Apache] 	Problem detected!
+8:53:47 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:53:47 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:53:47 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:53:47 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:53:47 PM  [Apache] 	Attempting to start Apache app...
+8:53:47 PM  [Apache] 	Status change detected: running
+8:53:49 PM  [mysql] 	Attempting to start MySQL app...
+8:53:51 PM  [Apache] 	Status change detected: stopped
+8:53:51 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:53:51 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:53:51 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:53:51 PM  [Apache] 	Press the Logs button to view error logs and check
+8:53:51 PM  [Apache] 	the Windows Event Viewer for more clues
+8:53:51 PM  [Apache] 	If you need more help, copy and post this
+8:53:51 PM  [Apache] 	entire log window on the forums
+8:53:51 PM  [mysql] 	Status change detected: running
+8:53:54 PM  [Apache] 	Problem detected!
+8:53:54 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:53:54 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:53:54 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:53:54 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:53:54 PM  [Apache] 	Attempting to start Apache app...
+8:53:54 PM  [Apache] 	Status change detected: running
+8:53:55 PM  [Apache] 	Status change detected: stopped
+8:53:55 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:53:55 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:53:55 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:53:55 PM  [Apache] 	Press the Logs button to view error logs and check
+8:53:55 PM  [Apache] 	the Windows Event Viewer for more clues
+8:53:55 PM  [Apache] 	If you need more help, copy and post this
+8:53:55 PM  [Apache] 	entire log window on the forums
+8:54:18 PM  [Apache] 	Problem detected!
+8:54:18 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:54:18 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:54:18 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:54:18 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:54:18 PM  [Apache] 	Attempting to start Apache app...
+8:54:18 PM  [Apache] 	Status change detected: running
+8:54:19 PM  [Apache] 	Status change detected: stopped
+8:54:19 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:54:19 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:54:19 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:54:19 PM  [Apache] 	Press the Logs button to view error logs and check
+8:54:19 PM  [Apache] 	the Windows Event Viewer for more clues
+8:54:19 PM  [Apache] 	If you need more help, copy and post this
+8:54:19 PM  [Apache] 	entire log window on the forums
+9:02:45 PM  [Apache] 	Problem detected!
+9:02:45 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+9:02:45 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:02:45 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:02:45 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:02:45 PM  [Apache] 	Attempting to start Apache app...
+9:02:45 PM  [Apache] 	Status change detected: running
+9:02:46 PM  [Apache] 	Status change detected: stopped
+9:02:46 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:02:46 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:02:46 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:02:46 PM  [Apache] 	Press the Logs button to view error logs and check
+9:02:46 PM  [Apache] 	the Windows Event Viewer for more clues
+9:02:46 PM  [Apache] 	If you need more help, copy and post this
+9:02:46 PM  [Apache] 	entire log window on the forums
+9:05:50 PM  [Apache] 	Problem detected!
+9:05:50 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+9:05:50 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:05:50 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:05:50 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:05:50 PM  [Apache] 	Attempting to start Apache app...
+9:05:50 PM  [Apache] 	Status change detected: running
+9:05:51 PM  [Apache] 	Status change detected: stopped
+9:05:51 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:05:51 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:05:51 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:05:51 PM  [Apache] 	Press the Logs button to view error logs and check
+9:05:51 PM  [Apache] 	the Windows Event Viewer for more clues
+9:05:51 PM  [Apache] 	If you need more help, copy and post this
+9:05:51 PM  [Apache] 	entire log window on the forums
+9:09:46 PM  [mysql] 	Attempting to stop MySQL app...
+9:09:46 PM  [mysql] 	Status change detected: stopped
+9:09:48 PM  [Apache] 	Problem detected!
+9:09:48 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+9:09:48 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:09:48 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:09:48 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:09:48 PM  [Apache] 	Attempting to start Apache app...
+9:09:49 PM  [Apache] 	Status change detected: running
+9:09:50 PM  [mysql] 	Attempting to start MySQL app...
+9:09:50 PM  [mysql] 	Status change detected: running
+9:25:50 PM  [Apache] 	Attempting to stop Apache (PID: 76760)
+9:25:50 PM  [Apache] 	Attempting to stop Apache (PID: 70924)
+9:25:51 PM  [Apache] 	Status change detected: stopped
+9:25:52 PM  [mysql] 	Attempting to stop MySQL app...
+9:25:52 PM  [mysql] 	Status change detected: stopped
+9:25:55 PM  [Apache] 	Problem detected!
+9:25:55 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+9:25:55 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:25:55 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:25:55 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:25:55 PM  [Apache] 	Attempting to start Apache app...
+9:25:56 PM  [Apache] 	Status change detected: running
+9:25:57 PM  [mysql] 	Attempting to start MySQL app...
+9:25:57 PM  [mysql] 	Status change detected: running
+11:55:25 PM  [Apache] 	Attempting to stop Apache (PID: 74644)
+11:55:25 PM  [Apache] 	Attempting to stop Apache (PID: 77236)
+11:55:25 PM  [Apache] 	Status change detected: stopped
+11:55:25 PM  [mysql] 	Attempting to stop MySQL app...
+11:55:26 PM  [mysql] 	Status change detected: stopped
+11:58:11 PM  [main] 	Deinitializing Modules
+11:58:11 PM  [main] 	Deinitializing Control Panel
+
+8:27:22 AM  [main] 	Initializing Control Panel
+8:27:22 AM  [main] 	Windows Version:  Enterprise  64-bit
+8:27:22 AM  [main] 	XAMPP Version: 7.2.12
+8:27:22 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:27:22 AM  [main] 	You are not running with administrator rights! This will work for
+8:27:22 AM  [main] 	most application stuff but whenever you do something with services
+8:27:22 AM  [main] 	there will be a security dialogue or things will break! So think 
+8:27:22 AM  [main] 	about running this application with administrator rights!
+8:27:22 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:27:22 AM  [main] 	Checking for prerequisites
+8:27:22 AM  [main] 	All prerequisites found
+8:27:22 AM  [main] 	Initializing Modules
+8:27:22 AM  [Apache] 	Problem detected!
+8:27:22 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:27:22 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:27:22 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:27:22 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:27:22 AM  [main] 	Starting Check-Timer
+8:27:22 AM  [main] 	Control Panel Ready
+8:27:24 AM  [Apache] 	Problem detected!
+8:27:24 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:27:24 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:27:24 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:27:24 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:27:24 AM  [Apache] 	Attempting to start Apache app...
+8:27:25 AM  [Apache] 	Status change detected: running
+8:27:26 AM  [mysql] 	Attempting to start MySQL app...
+8:27:29 AM  [mysql] 	Status change detected: running
+9:14:07 AM  [Apache] 	Attempting to stop Apache (PID: 55356)
+9:14:07 AM  [Apache] 	Attempting to stop Apache (PID: 80512)
+9:14:07 AM  [Apache] 	Status change detected: stopped
+9:14:08 AM  [mysql] 	Attempting to stop MySQL app...
+9:14:08 AM  [mysql] 	Status change detected: stopped
+9:14:36 AM  [main] 	Deinitializing Modules
+9:14:36 AM  [main] 	Deinitializing Control Panel
+
+9:47:58 AM  [main] 	Initializing Control Panel
+9:47:58 AM  [main] 	Windows Version:  Enterprise  64-bit
+9:47:58 AM  [main] 	XAMPP Version: 7.2.12
+9:47:58 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:47:58 AM  [main] 	You are not running with administrator rights! This will work for
+9:47:58 AM  [main] 	most application stuff but whenever you do something with services
+9:47:58 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:47:58 AM  [main] 	about running this application with administrator rights!
+9:47:58 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:47:58 AM  [main] 	Checking for prerequisites
+9:47:58 AM  [main] 	All prerequisites found
+9:47:58 AM  [main] 	Initializing Modules
+9:47:58 AM  [Apache] 	Problem detected!
+9:47:58 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+9:47:58 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:47:58 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:47:58 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:47:58 AM  [main] 	Starting Check-Timer
+9:47:58 AM  [main] 	Control Panel Ready
+9:48:02 AM  [Apache] 	Problem detected!
+9:48:02 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+9:48:02 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:48:02 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:48:02 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:48:02 AM  [Apache] 	Attempting to start Apache app...
+9:48:02 AM  [Apache] 	Status change detected: running
+9:48:03 AM  [mysql] 	Attempting to start MySQL app...
+9:48:08 AM  [mysql] 	Status change detected: running
+10:16:00 AM  [Apache] 	Attempting to stop Apache (PID: 78980)
+10:16:00 AM  [Apache] 	Attempting to stop Apache (PID: 80428)
+10:16:00 AM  [Apache] 	Status change detected: stopped
+10:16:01 AM  [mysql] 	Attempting to stop MySQL app...
+10:16:01 AM  [mysql] 	Status change detected: stopped
+10:16:24 AM  [main] 	Deinitializing Modules
+10:16:24 AM  [main] 	Deinitializing Control Panel
+
+11:51:34 AM  [main] 	Initializing Control Panel
+11:51:34 AM  [main] 	Windows Version:  Enterprise  64-bit
+11:51:34 AM  [main] 	XAMPP Version: 7.2.12
+11:51:34 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:51:34 AM  [main] 	You are not running with administrator rights! This will work for
+11:51:34 AM  [main] 	most application stuff but whenever you do something with services
+11:51:34 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:51:34 AM  [main] 	about running this application with administrator rights!
+11:51:34 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:51:34 AM  [main] 	Checking for prerequisites
+11:51:34 AM  [main] 	All prerequisites found
+11:51:34 AM  [main] 	Initializing Modules
+11:51:34 AM  [Apache] 	Problem detected!
+11:51:34 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+11:51:34 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:51:34 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:51:34 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:51:34 AM  [main] 	Starting Check-Timer
+11:51:34 AM  [main] 	Control Panel Ready
+11:51:38 AM  [Apache] 	Problem detected!
+11:51:38 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+11:51:38 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:51:38 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:51:38 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:51:38 AM  [Apache] 	Attempting to start Apache app...
+11:51:38 AM  [Apache] 	Status change detected: running
+11:51:39 AM  [mysql] 	Attempting to start MySQL app...
+11:51:40 AM  [mysql] 	Status change detected: running
+11:51:40 AM  [mysql] 	Status change detected: stopped
+11:51:40 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:51:40 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:51:40 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:51:40 AM  [mysql] 	Press the Logs button to view error logs and check
+11:51:40 AM  [mysql] 	the Windows Event Viewer for more clues
+11:51:40 AM  [mysql] 	If you need more help, copy and post this
+11:51:40 AM  [mysql] 	entire log window on the forums
+12:10:44 PM  [mysql] 	Problem detected!
+12:10:44 PM  [mysql] 	Port 3306 in use by ""C:\xampp\mysql\bin\mysqld.exe" "--defaults-file=C:\xampp\mysql\data\my.ini" "MySQL""!
+12:10:44 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:10:44 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:10:44 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:10:44 PM  [mysql] 	Attempting to start MySQL app...
+12:11:07 PM  [mysql] 	Problem detected!
+12:11:07 PM  [mysql] 	Port 3306 in use by ""C:\xampp\mysql\bin\mysqld.exe" "--defaults-file=C:\xampp\mysql\data\my.ini" "MySQL""!
+12:11:07 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:11:07 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:11:07 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:11:07 PM  [mysql] 	Attempting to start MySQL app...
+12:11:33 PM  [Apache] 	Attempting to stop Apache (PID: 53852)
+12:11:33 PM  [Apache] 	Attempting to stop Apache (PID: 52112)
+12:11:33 PM  [Apache] 	Status change detected: stopped
+12:13:08 PM  [mysql] 	Problem detected!
+12:13:08 PM  [mysql] 	Port 3306 in use by ""C:\xampp\mysql\bin\mysqld.exe" "--defaults-file=C:\xampp\mysql\data\my.ini" "MySQL""!
+12:13:08 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:13:08 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:13:08 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:13:08 PM  [mysql] 	Attempting to start MySQL app...
+12:19:59 PM  [mysql] 	Problem detected!
+12:19:59 PM  [mysql] 	Port 3306 in use by ""C:\xampp\mysql\bin\mysqld.exe" "--defaults-file=C:\xampp\mysql\data\my.ini" "MySQL""!
+12:19:59 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:19:59 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:19:59 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:19:59 PM  [mysql] 	Attempting to start MySQL app...
+12:19:59 PM  [mysql] 	Status change detected: running
+12:20:00 PM  [mysql] 	Status change detected: stopped
+12:20:00 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:20:00 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:20:00 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:20:00 PM  [mysql] 	Press the Logs button to view error logs and check
+12:20:00 PM  [mysql] 	the Windows Event Viewer for more clues
+12:20:00 PM  [mysql] 	If you need more help, copy and post this
+12:20:00 PM  [mysql] 	entire log window on the forums
+12:20:13 PM  [mysql] 	Problem detected!
+12:20:13 PM  [mysql] 	Port 3306 in use by ""C:\xampp\mysql\bin\mysqld.exe" "--defaults-file=C:\xampp\mysql\data\my.ini" "MySQL""!
+12:20:13 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:20:13 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:20:13 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:20:13 PM  [mysql] 	Attempting to start MySQL app...
+12:20:26 PM  [mysql] 	Problem detected!
+12:20:26 PM  [mysql] 	Port 3306 in use by ""C:\xampp\mysql\bin\mysqld.exe" "--defaults-file=C:\xampp\mysql\data\my.ini" "MySQL""!
+12:20:26 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:20:26 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:20:26 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:20:26 PM  [mysql] 	Attempting to start MySQL app...
+12:25:47 PM  [main] 	Deinitializing Modules
+12:25:47 PM  [main] 	Deinitializing Control Panel
+
+12:25:58 PM  [main] 	Initializing Control Panel
+12:25:58 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:25:58 PM  [main] 	XAMPP Version: 7.2.12
+12:25:58 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+12:25:58 PM  [main] 	You are not running with administrator rights! This will work for
+12:25:58 PM  [main] 	most application stuff but whenever you do something with services
+12:25:58 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:25:58 PM  [main] 	about running this application with administrator rights!
+12:25:58 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:25:58 PM  [main] 	Checking for prerequisites
+12:25:58 PM  [main] 	All prerequisites found
+12:25:58 PM  [main] 	Initializing Modules
+12:25:58 PM  [Apache] 	Problem detected!
+12:25:58 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+12:25:58 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:25:58 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:25:58 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:25:58 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+12:25:58 PM  [main] 	Starting Check-Timer
+12:25:58 PM  [main] 	Control Panel Ready
+12:26:01 PM  [Apache] 	Problem detected!
+12:26:01 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+12:26:01 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:26:01 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:26:01 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:26:01 PM  [Apache] 	Attempting to start Apache app...
+12:26:01 PM  [Apache] 	Status change detected: running
+12:26:15 PM  [Apache] 	Attempting to stop Apache (PID: 80588)
+12:26:15 PM  [Apache] 	Attempting to stop Apache (PID: 1436)
+12:26:15 PM  [Apache] 	Status change detected: stopped
+12:26:17 PM  [mysql] 	Attempting to stop MySQL service...
+12:26:30 PM  [mysql] 	Status change detected: stopped
+12:27:22 PM  [Apache] 	Problem detected!
+12:27:22 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+12:27:22 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:27:22 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:27:22 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:27:22 PM  [Apache] 	Attempting to start Apache app...
+12:27:23 PM  [Apache] 	Status change detected: running
+12:27:23 PM  [mysql] 	Attempting to start MySQL service...
+12:27:31 PM  [mysql] 	Status change detected: running
+12:30:52 PM  [Apache] 	Attempting to stop Apache (PID: 45288)
+12:30:52 PM  [Apache] 	Attempting to stop Apache (PID: 45092)
+12:30:52 PM  [Apache] 	Status change detected: stopped
+12:30:53 PM  [mysql] 	Attempting to stop MySQL service...
+12:31:01 PM  [mysql] 	Status change detected: stopped
+12:31:09 PM  [mysql] 	Attempting to start MySQL service...
+12:31:16 PM  [mysql] 	Status change detected: running
+12:31:17 PM  [Apache] 	Problem detected!
+12:31:17 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+12:31:17 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:31:17 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:31:17 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:31:17 PM  [Apache] 	Attempting to start Apache app...
+12:31:17 PM  [Apache] 	Status change detected: running
+5:29:14 PM  [mysql] 	Attempting to stop MySQL service...
+5:30:16 PM  [Apache] 	Attempting to stop Apache (PID: 56172)
+5:30:16 PM  [Apache] 	Attempting to stop Apache (PID: 45256)
+5:30:16 PM  [Apache] 	Status change detected: stopped
+5:30:18 PM  [mysql] 	Attempting to stop MySQL service...
+5:30:30 PM  [mysql] 	Attempting to stop MySQL service...
+5:30:48 PM  [mysql] 	Attempting to stop MySQL service...
+5:31:19 PM  [main] 	Deinitializing Modules
+5:31:19 PM  [main] 	Deinitializing Control Panel
+
+8:22:08 PM  [main] 	Initializing Control Panel
+8:22:08 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:22:08 PM  [main] 	XAMPP Version: 7.2.12
+8:22:08 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:22:08 PM  [main] 	You are not running with administrator rights! This will work for
+8:22:08 PM  [main] 	most application stuff but whenever you do something with services
+8:22:08 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:22:08 PM  [main] 	about running this application with administrator rights!
+8:22:08 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:22:08 PM  [main] 	Checking for prerequisites
+8:22:08 PM  [main] 	All prerequisites found
+8:22:08 PM  [main] 	Initializing Modules
+8:22:08 PM  [Apache] 	Problem detected!
+8:22:08 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:22:08 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:22:08 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:22:08 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:22:08 PM  [main] 	Starting Check-Timer
+8:22:08 PM  [main] 	Control Panel Ready
+8:22:10 PM  [Apache] 	Problem detected!
+8:22:10 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:22:10 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:22:10 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:22:10 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:22:10 PM  [Apache] 	Attempting to start Apache app...
+8:22:11 PM  [Apache] 	Status change detected: running
+8:22:11 PM  [mysql] 	Attempting to start MySQL app...
+8:22:12 PM  [mysql] 	Status change detected: running
+8:22:13 PM  [mysql] 	Status change detected: stopped
+8:22:13 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:22:13 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:22:13 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:22:13 PM  [mysql] 	Press the Logs button to view error logs and check
+8:22:13 PM  [mysql] 	the Windows Event Viewer for more clues
+8:22:13 PM  [mysql] 	If you need more help, copy and post this
+8:22:13 PM  [mysql] 	entire log window on the forums
+8:22:17 PM  [mysql] 	Attempting to start MySQL app...
+8:22:17 PM  [mysql] 	Status change detected: running
+8:22:17 PM  [mysql] 	Status change detected: stopped
+8:22:17 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:22:17 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:22:17 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:22:17 PM  [mysql] 	Press the Logs button to view error logs and check
+8:22:17 PM  [mysql] 	the Windows Event Viewer for more clues
+8:22:17 PM  [mysql] 	If you need more help, copy and post this
+8:22:17 PM  [mysql] 	entire log window on the forums
+8:22:25 PM  [mysql] 	Attempting to start MySQL app...
+8:22:34 PM  [mysql] 	Attempting to start MySQL app...
+8:22:34 PM  [mysql] 	Attempting to start MySQL app...
+8:22:34 PM  [mysql] 	Attempting to start MySQL app...
+8:22:53 PM  [mysql] 	Attempting to start MySQL app...
+8:23:06 PM  [mysql] 	Attempting to start MySQL app...
+8:23:59 PM  [Apache] 	Attempting to stop Apache (PID: 74424)
+8:23:59 PM  [Apache] 	Attempting to stop Apache (PID: 132792)
+8:23:59 PM  [Apache] 	Status change detected: stopped
+8:24:02 PM  [mysql] 	Attempting to start MySQL app...
+8:24:07 PM  [Apache] 	Problem detected!
+8:24:07 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:24:07 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:24:07 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:24:07 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:24:07 PM  [Apache] 	Attempting to start Apache app...
+8:24:08 PM  [Apache] 	Status change detected: running
+8:24:17 PM  [mysql] 	Attempting to start MySQL app...
+8:24:57 PM  [mysql] 	Attempting to start MySQL app...
+8:25:00 PM  [mysql] 	Attempting to start MySQL app...
+8:25:00 PM  [mysql] 	Attempting to start MySQL app...
+8:25:01 PM  [mysql] 	Attempting to start MySQL app...
+8:25:01 PM  [mysql] 	Attempting to start MySQL app...
+8:25:01 PM  [mysql] 	Attempting to start MySQL app...
+8:25:01 PM  [mysql] 	Attempting to start MySQL app...
+8:25:02 PM  [mysql] 	Attempting to start MySQL app...
+8:25:02 PM  [mysql] 	Attempting to start MySQL app...
+8:25:02 PM  [mysql] 	Attempting to start MySQL app...
+8:25:02 PM  [mysql] 	Attempting to start MySQL app...
+8:25:03 PM  [Apache] 	Attempting to stop Apache (PID: 126440)
+8:25:03 PM  [Apache] 	Attempting to stop Apache (PID: 52092)
+8:25:04 PM  [Apache] 	Status change detected: stopped
+8:25:14 PM  [main] 	Deinitializing Modules
+8:25:14 PM  [main] 	Deinitializing Control Panel
+
+8:25:19 PM  [main] 	Initializing Control Panel
+8:25:19 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:25:19 PM  [main] 	XAMPP Version: 7.2.12
+8:25:19 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:25:19 PM  [main] 	You are not running with administrator rights! This will work for
+8:25:19 PM  [main] 	most application stuff but whenever you do something with services
+8:25:19 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:25:19 PM  [main] 	about running this application with administrator rights!
+8:25:19 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:25:19 PM  [main] 	Checking for prerequisites
+8:25:19 PM  [main] 	All prerequisites found
+8:25:19 PM  [main] 	Initializing Modules
+8:25:19 PM  [Apache] 	Problem detected!
+8:25:19 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:25:19 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:25:19 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:25:19 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:25:19 PM  [main] 	Starting Check-Timer
+8:25:19 PM  [main] 	Control Panel Ready
+8:25:21 PM  [mysql] 	Attempting to start MySQL app...
+8:25:22 PM  [Apache] 	Problem detected!
+8:25:22 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5824!
+8:25:22 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:25:22 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:25:22 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:25:22 PM  [Apache] 	Attempting to start Apache app...
+8:25:23 PM  [Apache] 	Status change detected: running
+8:25:29 PM  [mysql] 	Attempting to start MySQL app...
+8:25:43 PM  [mysql] 	Attempting to start MySQL app...
+8:25:44 PM  [mysql] 	Attempting to start MySQL app...
+8:25:45 PM  [mysql] 	Attempting to start MySQL app...
+8:25:45 PM  [mysql] 	Attempting to start MySQL app...
+8:25:46 PM  [mysql] 	Attempting to start MySQL app...
+8:25:46 PM  [mysql] 	Attempting to start MySQL app...
+8:25:46 PM  [mysql] 	Attempting to start MySQL app...
+8:25:46 PM  [mysql] 	Attempting to start MySQL app...
+8:25:46 PM  [mysql] 	Status change detected: running
+8:25:47 PM  [mysql] 	Attempting to stop MySQL app...
+8:25:47 PM  [mysql] 	Attempting to stop MySQL app...
+8:25:47 PM  [mysql] 	Attempting to stop MySQL app...
+8:25:47 PM  [mysql] 	Attempting to stop MySQL app...
+8:25:47 PM  [mysql] 	Status change detected: stopped
+8:25:59 PM  [mysql] 	Attempting to start MySQL app...
+8:27:41 PM  [Apache] 	Attempting to stop Apache (PID: 9660)
+8:27:41 PM  [Apache] 	Attempting to stop Apache (PID: 140636)
+8:27:41 PM  [Apache] 	Status change detected: stopped
+8:27:57 PM  [main] 	Deinitializing Modules
+8:27:57 PM  [main] 	Deinitializing Control Panel
+
+8:42:49 PM  [main] 	Initializing Control Panel
+8:42:49 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:42:49 PM  [main] 	XAMPP Version: 7.2.12
+8:42:49 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:42:49 PM  [main] 	You are not running with administrator rights! This will work for
+8:42:49 PM  [main] 	most application stuff but whenever you do something with services
+8:42:49 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:42:49 PM  [main] 	about running this application with administrator rights!
+8:42:49 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:42:49 PM  [main] 	Checking for prerequisites
+8:42:51 PM  [main] 	All prerequisites found
+8:42:51 PM  [main] 	Initializing Modules
+8:42:51 PM  [Apache] 	Problem detected!
+8:42:51 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+8:42:51 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:42:51 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:42:51 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:42:51 PM  [main] 	Starting Check-Timer
+8:42:51 PM  [main] 	Control Panel Ready
+8:42:55 PM  [Apache] 	Problem detected!
+8:42:55 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+8:42:55 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:42:55 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:42:55 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:42:55 PM  [Apache] 	Attempting to start Apache app...
+8:42:55 PM  [Apache] 	Status change detected: running
+8:43:15 PM  [mysql] 	Attempting to stop MySQL service...
+8:43:23 PM  [Apache] 	Attempting to stop Apache (PID: 11092)
+8:43:23 PM  [Apache] 	Attempting to stop Apache (PID: 11208)
+8:43:23 PM  [Apache] 	Status change detected: stopped
+8:43:28 PM  [mysql] 	Status change detected: stopped
+8:44:19 PM  [main] 	Deinitializing Modules
+8:44:19 PM  [main] 	Deinitializing Control Panel
+
+7:50:43 AM  [main] 	Initializing Control Panel
+7:50:43 AM  [main] 	Windows Version:  Enterprise  64-bit
+7:50:43 AM  [main] 	XAMPP Version: 7.2.12
+7:50:43 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:50:43 AM  [main] 	You are not running with administrator rights! This will work for
+7:50:43 AM  [main] 	most application stuff but whenever you do something with services
+7:50:43 AM  [main] 	there will be a security dialogue or things will break! So think 
+7:50:43 AM  [main] 	about running this application with administrator rights!
+7:50:43 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+7:50:43 AM  [main] 	Checking for prerequisites
+7:50:43 AM  [main] 	All prerequisites found
+7:50:43 AM  [main] 	Initializing Modules
+7:50:43 AM  [Apache] 	Problem detected!
+7:50:43 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+7:50:43 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:50:43 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:50:43 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:50:43 AM  [main] 	Starting Check-Timer
+7:50:43 AM  [main] 	Control Panel Ready
+7:50:45 AM  [Apache] 	Problem detected!
+7:50:45 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+7:50:45 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:50:45 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:50:45 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:50:45 AM  [Apache] 	Attempting to start Apache app...
+7:50:45 AM  [Apache] 	Status change detected: running
+7:50:46 AM  [mysql] 	Attempting to start MySQL service...
+7:50:55 AM  [mysql] 	Status change detected: running
+8:20:32 AM  [Apache] 	Status change detected: stopped
+8:20:32 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:20:32 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:20:32 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:20:32 AM  [Apache] 	Press the Logs button to view error logs and check
+8:20:32 AM  [Apache] 	the Windows Event Viewer for more clues
+8:20:32 AM  [Apache] 	If you need more help, copy and post this
+8:20:32 AM  [Apache] 	entire log window on the forums
+8:20:32 AM  [mysql] 	Status change detected: stopped
+8:20:32 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:20:32 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:20:32 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:20:32 AM  [mysql] 	Press the Logs button to view error logs and check
+8:20:32 AM  [mysql] 	the Windows Event Viewer for more clues
+8:20:32 AM  [mysql] 	If you need more help, copy and post this
+8:20:32 AM  [mysql] 	entire log window on the forums
+8:26:27 AM  [Apache] 	Problem detected!
+8:26:27 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+8:26:27 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:26:27 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:26:27 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:26:27 AM  [Apache] 	Attempting to start Apache app...
+8:26:28 AM  [Apache] 	Status change detected: running
+8:26:29 AM  [mysql] 	Attempting to start MySQL service...
+8:26:58 AM  [mysql] 	Status change detected: running
+8:27:39 AM  [mysql] 	Attempting to stop MySQL service...
+8:27:47 AM  [Apache] 	Attempting to stop Apache (PID: 1800)
+8:27:47 AM  [Apache] 	Attempting to stop Apache (PID: 5148)
+8:27:47 AM  [Apache] 	Status change detected: stopped
+8:27:49 AM  [mysql] 	Status change detected: stopped
+8:27:55 AM  [main] 	Deinitializing Modules
+8:27:55 AM  [main] 	Deinitializing Control Panel
+
+8:44:28 PM  [main] 	Initializing Control Panel
+8:44:28 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:44:28 PM  [main] 	XAMPP Version: 7.2.12
+8:44:28 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:44:28 PM  [main] 	You are not running with administrator rights! This will work for
+8:44:28 PM  [main] 	most application stuff but whenever you do something with services
+8:44:28 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:44:28 PM  [main] 	about running this application with administrator rights!
+8:44:28 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:44:28 PM  [main] 	Checking for prerequisites
+8:44:28 PM  [main] 	All prerequisites found
+8:44:28 PM  [main] 	Initializing Modules
+8:44:28 PM  [Apache] 	Problem detected!
+8:44:28 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+8:44:28 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:44:28 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:44:28 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:44:28 PM  [main] 	Starting Check-Timer
+8:44:28 PM  [main] 	Control Panel Ready
+8:44:32 PM  [Apache] 	Problem detected!
+8:44:32 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+8:44:32 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:44:32 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:44:32 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:44:32 PM  [Apache] 	Attempting to start Apache app...
+8:44:33 PM  [Apache] 	Status change detected: running
+8:44:36 PM  [mysql] 	Attempting to start MySQL service...
+8:44:42 PM  [mysql] 	Status change detected: running
+7:43:16 AM  [Apache] 	Attempting to stop Apache (PID: 8572)
+7:43:16 AM  [Apache] 	Attempting to stop Apache (PID: 8396)
+7:43:16 AM  [Apache] 	Status change detected: stopped
+7:43:18 AM  [mysql] 	Attempting to stop MySQL service...
+7:43:29 AM  [mysql] 	Status change detected: stopped
+7:50:45 AM  [Apache] 	Status change detected: running
+7:50:55 AM  [mysql] 	Status change detected: running
+8:20:32 AM  [Apache] 	Status change detected: stopped
+8:20:32 AM  [mysql] 	Status change detected: stopped
+8:26:28 AM  [Apache] 	Status change detected: running
+8:26:58 AM  [mysql] 	Status change detected: running
+8:27:47 AM  [Apache] 	Status change detected: stopped
+8:27:49 AM  [mysql] 	Status change detected: stopped
+8:27:57 AM  [main] 	Deinitializing Modules
+8:27:57 AM  [main] 	Deinitializing Control Panel
+
+10:29:07 AM  [main] 	Initializing Control Panel
+10:29:07 AM  [main] 	Windows Version:  Enterprise  64-bit
+10:29:07 AM  [main] 	XAMPP Version: 7.2.12
+10:29:07 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:29:07 AM  [main] 	You are not running with administrator rights! This will work for
+10:29:07 AM  [main] 	most application stuff but whenever you do something with services
+10:29:07 AM  [main] 	there will be a security dialogue or things will break! So think 
+10:29:07 AM  [main] 	about running this application with administrator rights!
+10:29:07 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:29:07 AM  [main] 	Checking for prerequisites
+10:29:08 AM  [main] 	All prerequisites found
+10:29:08 AM  [main] 	Initializing Modules
+10:29:08 AM  [Apache] 	Problem detected!
+10:29:08 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+10:29:08 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:29:08 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:29:08 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:29:08 AM  [main] 	Starting Check-Timer
+10:29:08 AM  [main] 	Control Panel Ready
+10:29:10 AM  [Apache] 	Problem detected!
+10:29:10 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+10:29:10 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:29:10 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:29:10 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:29:10 AM  [Apache] 	Attempting to start Apache app...
+10:29:10 AM  [Apache] 	Status change detected: running
+10:29:11 AM  [mysql] 	Attempting to start MySQL service...
+10:29:18 AM  [mysql] 	Status change detected: running
+10:31:03 AM  [Apache] 	Attempting to stop Apache (PID: 4236)
+10:31:03 AM  [Apache] 	Attempting to stop Apache (PID: 14956)
+10:31:03 AM  [Apache] 	Status change detected: stopped
+10:31:03 AM  [mysql] 	Attempting to stop MySQL service...
+10:31:12 AM  [mysql] 	Status change detected: stopped
+10:31:18 AM  [main] 	Deinitializing Modules
+10:31:18 AM  [main] 	Deinitializing Control Panel
+
+1:50:46 PM  [main] 	Initializing Control Panel
+1:50:46 PM  [main] 	Windows Version:  Enterprise  64-bit
+1:50:46 PM  [main] 	XAMPP Version: 7.2.12
+1:50:46 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+1:50:46 PM  [main] 	You are not running with administrator rights! This will work for
+1:50:46 PM  [main] 	most application stuff but whenever you do something with services
+1:50:46 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:50:46 PM  [main] 	about running this application with administrator rights!
+1:50:46 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+1:50:46 PM  [main] 	Checking for prerequisites
+1:50:48 PM  [main] 	All prerequisites found
+1:50:48 PM  [main] 	Initializing Modules
+1:50:48 PM  [Apache] 	Problem detected!
+1:50:48 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+1:50:48 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+1:50:48 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+1:50:48 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+1:50:48 PM  [main] 	Starting Check-Timer
+1:50:48 PM  [main] 	Control Panel Ready
+1:50:50 PM  [Apache] 	Problem detected!
+1:50:50 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+1:50:50 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+1:50:50 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+1:50:50 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+1:50:50 PM  [Apache] 	Attempting to start Apache app...
+1:50:50 PM  [Apache] 	Status change detected: running
+1:50:51 PM  [mysql] 	Attempting to start MySQL service...
+1:51:03 PM  [mysql] 	Status change detected: running
+2:20:28 PM  [Apache] 	Attempting to stop Apache (PID: 16876)
+2:20:28 PM  [Apache] 	Attempting to stop Apache (PID: 7208)
+2:20:28 PM  [Apache] 	Status change detected: stopped
+2:20:30 PM  [Apache] 	Problem detected!
+2:20:30 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+2:20:30 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:20:30 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:20:30 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:20:30 PM  [Apache] 	Attempting to start Apache app...
+2:20:30 PM  [Apache] 	Status change detected: running
+2:22:21 PM  [Apache] 	Attempting to stop Apache (PID: 10348)
+2:22:21 PM  [Apache] 	Attempting to stop Apache (PID: 14048)
+2:22:22 PM  [Apache] 	Status change detected: stopped
+2:22:23 PM  [mysql] 	Attempting to stop MySQL service...
+2:22:31 PM  [mysql] 	Status change detected: stopped
+2:22:33 PM  [Apache] 	Problem detected!
+2:22:33 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6236!
+2:22:33 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:22:33 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:22:33 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:22:33 PM  [Apache] 	Attempting to start Apache app...
+2:22:33 PM  [Apache] 	Status change detected: running
+2:22:34 PM  [mysql] 	Attempting to start MySQL service...
+2:22:42 PM  [mysql] 	Status change detected: running
+4:22:58 PM  [Apache] 	Attempting to stop Apache (PID: 3628)
+4:22:58 PM  [Apache] 	Attempting to stop Apache (PID: 7368)
+4:22:58 PM  [Apache] 	Status change detected: stopped
+4:22:59 PM  [mysql] 	Attempting to stop MySQL service...
+4:23:10 PM  [mysql] 	Status change detected: stopped
+4:23:16 PM  [main] 	Deinitializing Modules
+4:23:16 PM  [main] 	Deinitializing Control Panel
+
+4:33:56 PM  [main] 	Initializing Control Panel
+4:33:56 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:33:56 PM  [main] 	XAMPP Version: 7.2.12
+4:33:56 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+4:33:56 PM  [main] 	You are not running with administrator rights! This will work for
+4:33:56 PM  [main] 	most application stuff but whenever you do something with services
+4:33:56 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:33:56 PM  [main] 	about running this application with administrator rights!
+4:33:56 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:33:56 PM  [main] 	Checking for prerequisites
+4:34:01 PM  [main] 	All prerequisites found
+4:34:01 PM  [main] 	Initializing Modules
+4:34:01 PM  [Apache] 	Problem detected!
+4:34:01 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6496!
+4:34:01 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:34:01 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:34:01 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:34:01 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+4:34:01 PM  [main] 	Starting Check-Timer
+4:34:01 PM  [main] 	Control Panel Ready
+4:34:04 PM  [Apache] 	Status change detected: running
+9:36:02 PM  [Apache] 	Status change detected: stopped
+9:36:02 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:36:02 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:36:02 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:36:02 PM  [Apache] 	Press the Logs button to view error logs and check
+9:36:02 PM  [Apache] 	the Windows Event Viewer for more clues
+9:36:02 PM  [Apache] 	If you need more help, copy and post this
+9:36:02 PM  [Apache] 	entire log window on the forums
+9:36:15 PM  [mysql] 	Status change detected: stopped
+9:36:15 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:36:15 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:36:15 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:36:15 PM  [mysql] 	Press the Logs button to view error logs and check
+9:36:15 PM  [mysql] 	the Windows Event Viewer for more clues
+9:36:15 PM  [mysql] 	If you need more help, copy and post this
+9:36:15 PM  [mysql] 	entire log window on the forums
+9:36:18 PM  [Apache] 	Status change detected: running
+9:36:26 PM  [mysql] 	Status change detected: running
+9:44:24 PM  [Apache] 	Status change detected: stopped
+9:44:24 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:44:24 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:44:24 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:44:24 PM  [Apache] 	Press the Logs button to view error logs and check
+9:44:24 PM  [Apache] 	the Windows Event Viewer for more clues
+9:44:24 PM  [Apache] 	If you need more help, copy and post this
+9:44:24 PM  [Apache] 	entire log window on the forums
+9:44:31 PM  [mysql] 	Status change detected: stopped
+9:44:31 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:44:31 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:44:31 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:44:31 PM  [mysql] 	Press the Logs button to view error logs and check
+9:44:31 PM  [mysql] 	the Windows Event Viewer for more clues
+9:44:31 PM  [mysql] 	If you need more help, copy and post this
+9:44:31 PM  [mysql] 	entire log window on the forums
+9:45:28 PM  [main] 	Deinitializing Modules
+9:45:28 PM  [main] 	Deinitializing Control Panel
+
+4:34:00 PM  [main] 	Initializing Control Panel
+4:34:00 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:34:00 PM  [main] 	XAMPP Version: 7.2.12
+4:34:00 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+4:34:00 PM  [main] 	You are not running with administrator rights! This will work for
+4:34:00 PM  [main] 	most application stuff but whenever you do something with services
+4:34:00 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:34:00 PM  [main] 	about running this application with administrator rights!
+4:34:00 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:34:00 PM  [main] 	Checking for prerequisites
+4:34:01 PM  [main] 	All prerequisites found
+4:34:01 PM  [main] 	Initializing Modules
+4:34:01 PM  [Apache] 	Problem detected!
+4:34:01 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6496!
+4:34:01 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:34:01 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:34:01 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:34:01 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+4:34:01 PM  [main] 	Starting Check-Timer
+4:34:01 PM  [main] 	Control Panel Ready
+4:34:04 PM  [Apache] 	Problem detected!
+4:34:04 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6496!
+4:34:04 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:34:04 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:34:04 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:34:04 PM  [Apache] 	Attempting to start Apache app...
+4:34:04 PM  [Apache] 	Status change detected: running
+9:36:02 PM  [Apache] 	Attempting to stop Apache (PID: 12264)
+9:36:02 PM  [Apache] 	Attempting to stop Apache (PID: 11356)
+9:36:02 PM  [Apache] 	Status change detected: stopped
+9:36:02 PM  [mysql] 	Attempting to stop MySQL service...
+9:36:15 PM  [mysql] 	Status change detected: stopped
+9:36:17 PM  [Apache] 	Problem detected!
+9:36:17 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6496!
+9:36:17 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:36:17 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:36:17 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:36:17 PM  [Apache] 	Attempting to start Apache app...
+9:36:18 PM  [Apache] 	Status change detected: running
+9:36:18 PM  [mysql] 	Attempting to start MySQL service...
+9:36:26 PM  [mysql] 	Status change detected: running
+9:44:24 PM  [Apache] 	Attempting to stop Apache (PID: 11868)
+9:44:24 PM  [Apache] 	Attempting to stop Apache (PID: 11128)
+9:44:24 PM  [Apache] 	Status change detected: stopped
+9:44:25 PM  [mysql] 	Attempting to stop MySQL service...
+9:44:31 PM  [mysql] 	Status change detected: stopped
+9:45:41 PM  [main] 	Deinitializing Modules
+9:45:41 PM  [main] 	Deinitializing Control Panel
+
+10:42:44 PM  [main] 	Initializing Control Panel
+10:42:44 PM  [main] 	Windows Version:  Enterprise  64-bit
+10:42:44 PM  [main] 	XAMPP Version: 7.2.12
+10:42:44 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:42:44 PM  [main] 	You are not running with administrator rights! This will work for
+10:42:44 PM  [main] 	most application stuff but whenever you do something with services
+10:42:44 PM  [main] 	there will be a security dialogue or things will break! So think 
+10:42:44 PM  [main] 	about running this application with administrator rights!
+10:42:44 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:42:44 PM  [main] 	Checking for prerequisites
+10:42:44 PM  [main] 	All prerequisites found
+10:42:44 PM  [main] 	Initializing Modules
+10:42:44 PM  [Apache] 	Problem detected!
+10:42:44 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6496!
+10:42:44 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:42:44 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:42:44 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:42:44 PM  [main] 	Starting Check-Timer
+10:42:44 PM  [main] 	Control Panel Ready
+10:42:47 PM  [mysql] 	Attempting to start MySQL service...
+10:42:53 PM  [mysql] 	Status change detected: running
+10:42:54 PM  [Apache] 	Problem detected!
+10:42:54 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6496!
+10:42:54 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:42:54 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:42:54 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:42:54 PM  [Apache] 	Attempting to start Apache app...
+10:42:54 PM  [Apache] 	Status change detected: running
+10:48:32 PM  [Apache] 	Attempting to stop Apache (PID: 12828)
+10:48:32 PM  [Apache] 	Attempting to stop Apache (PID: 7932)
+10:48:33 PM  [Apache] 	Status change detected: stopped
+10:48:34 PM  [mysql] 	Attempting to stop MySQL service...
+10:48:41 PM  [mysql] 	Status change detected: stopped
+12:00:20 AM  [main] 	Deinitializing Modules
+12:00:20 AM  [main] 	Deinitializing Control Panel
+
+11:41:42 AM  [main] 	Initializing Control Panel
+11:41:42 AM  [main] 	Windows Version:  Enterprise  64-bit
+11:41:42 AM  [main] 	XAMPP Version: 7.2.12
+11:41:42 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:41:42 AM  [main] 	You are not running with administrator rights! This will work for
+11:41:42 AM  [main] 	most application stuff but whenever you do something with services
+11:41:42 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:41:42 AM  [main] 	about running this application with administrator rights!
+11:41:42 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:41:42 AM  [main] 	Checking for prerequisites
+11:41:45 AM  [main] 	All prerequisites found
+11:41:45 AM  [main] 	Initializing Modules
+11:41:45 AM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+11:41:45 AM  [main] 	Starting Check-Timer
+11:41:45 AM  [main] 	Control Panel Ready
+11:41:47 AM  [Apache] 	Attempting to start Apache app...
+11:41:47 AM  [Apache] 	Status change detected: running
+4:39:35 PM  [Apache] 	Attempting to stop Apache (PID: 7064)
+4:39:35 PM  [Apache] 	Attempting to stop Apache (PID: 4272)
+4:39:35 PM  [Apache] 	Status change detected: stopped
+4:39:35 PM  [mysql] 	Attempting to stop MySQL service...
+4:39:43 PM  [mysql] 	Status change detected: stopped
+4:39:53 PM  [main] 	Deinitializing Modules
+4:39:53 PM  [main] 	Deinitializing Control Panel
+
+5:48:26 PM  [main] 	Initializing Control Panel
+5:48:26 PM  [main] 	Windows Version:  Enterprise  64-bit
+5:48:26 PM  [main] 	XAMPP Version: 7.2.12
+5:48:26 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+5:48:26 PM  [main] 	You are not running with administrator rights! This will work for
+5:48:26 PM  [main] 	most application stuff but whenever you do something with services
+5:48:26 PM  [main] 	there will be a security dialogue or things will break! So think 
+5:48:26 PM  [main] 	about running this application with administrator rights!
+5:48:26 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+5:48:27 PM  [main] 	Checking for prerequisites
+5:48:28 PM  [main] 	All prerequisites found
+5:48:28 PM  [main] 	Initializing Modules
+5:48:28 PM  [main] 	Starting Check-Timer
+5:48:28 PM  [main] 	Control Panel Ready
+5:48:30 PM  [Apache] 	Attempting to start Apache app...
+5:48:30 PM  [Apache] 	Status change detected: running
+5:48:31 PM  [mysql] 	Attempting to start MySQL service...
+5:48:38 PM  [mysql] 	Status change detected: running
+12:19:29 AM  [Apache] 	Attempting to stop Apache (PID: 11800)
+12:19:29 AM  [Apache] 	Attempting to stop Apache (PID: 5956)
+12:19:29 AM  [Apache] 	Status change detected: stopped
+12:19:30 AM  [mysql] 	Attempting to stop MySQL service...
+12:19:37 AM  [mysql] 	Status change detected: stopped
+12:19:56 AM  [main] 	Deinitializing Modules
+12:19:56 AM  [main] 	Deinitializing Control Panel
+
+7:04:44 AM  [main] 	Initializing Control Panel
+7:04:44 AM  [main] 	Windows Version:  Enterprise  64-bit
+7:04:44 AM  [main] 	XAMPP Version: 7.2.12
+7:04:44 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:04:44 AM  [main] 	You are not running with administrator rights! This will work for
+7:04:44 AM  [main] 	most application stuff but whenever you do something with services
+7:04:44 AM  [main] 	there will be a security dialogue or things will break! So think 
+7:04:44 AM  [main] 	about running this application with administrator rights!
+7:04:44 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+7:04:44 AM  [main] 	Checking for prerequisites
+7:04:45 AM  [main] 	All prerequisites found
+7:04:45 AM  [main] 	Initializing Modules
+7:04:45 AM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+7:04:45 AM  [main] 	Starting Check-Timer
+7:04:45 AM  [main] 	Control Panel Ready
+7:04:51 AM  [Apache] 	Attempting to start Apache app...
+7:04:51 AM  [Apache] 	Status change detected: running
+7:21:36 AM  [Apache] 	Attempting to stop Apache (PID: 5000)
+7:21:36 AM  [Apache] 	Attempting to stop Apache (PID: 6660)
+7:21:36 AM  [Apache] 	Status change detected: stopped
+7:21:38 AM  [mysql] 	Attempting to stop MySQL service...
+7:21:50 AM  [mysql] 	Status change detected: stopped
+7:22:02 AM  [main] 	Deinitializing Modules
+7:22:02 AM  [main] 	Deinitializing Control Panel
+
+7:22:31 AM  [main] 	Initializing Control Panel
+7:22:31 AM  [main] 	Windows Version:  Enterprise  64-bit
+7:22:31 AM  [main] 	XAMPP Version: 7.2.12
+7:22:31 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:22:31 AM  [main] 	You are not running with administrator rights! This will work for
+7:22:31 AM  [main] 	most application stuff but whenever you do something with services
+7:22:31 AM  [main] 	there will be a security dialogue or things will break! So think 
+7:22:31 AM  [main] 	about running this application with administrator rights!
+7:22:31 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+7:22:31 AM  [main] 	Checking for prerequisites
+7:22:31 AM  [main] 	All prerequisites found
+7:22:31 AM  [main] 	Initializing Modules
+7:22:31 AM  [main] 	Starting Check-Timer
+7:22:31 AM  [main] 	Control Panel Ready
+7:22:39 AM  [main] 	Deinitializing Modules
+7:22:39 AM  [main] 	Deinitializing Control Panel
+
+3:47:42 PM  [main] 	Initializing Control Panel
+3:47:42 PM  [main] 	Windows Version:  Enterprise  64-bit
+3:47:42 PM  [main] 	XAMPP Version: 7.2.12
+3:47:42 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+3:47:42 PM  [main] 	You are not running with administrator rights! This will work for
+3:47:42 PM  [main] 	most application stuff but whenever you do something with services
+3:47:42 PM  [main] 	there will be a security dialogue or things will break! So think 
+3:47:42 PM  [main] 	about running this application with administrator rights!
+3:47:42 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:47:42 PM  [main] 	Checking for prerequisites
+3:47:44 PM  [main] 	All prerequisites found
+3:47:44 PM  [main] 	Initializing Modules
+3:47:44 PM  [Apache] 	Problem detected!
+3:47:44 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+3:47:44 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:47:44 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:47:44 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:47:44 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+3:47:44 PM  [main] 	Starting Check-Timer
+3:47:44 PM  [main] 	Control Panel Ready
+3:49:17 PM  [Apache] 	Problem detected!
+3:49:17 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+3:49:17 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:49:17 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:49:17 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:49:17 PM  [Apache] 	Attempting to start Apache app...
+3:49:17 PM  [Apache] 	Status change detected: running
+4:52:56 PM  [Apache] 	Attempting to stop Apache (PID: 12228)
+4:52:56 PM  [Apache] 	Attempting to stop Apache (PID: 7872)
+4:52:56 PM  [Apache] 	Status change detected: stopped
+4:52:57 PM  [mysql] 	Attempting to stop MySQL service...
+4:53:05 PM  [mysql] 	Status change detected: stopped
+4:53:42 PM  [main] 	Deinitializing Modules
+4:53:42 PM  [main] 	Deinitializing Control Panel
+
+5:26:47 PM  [main] 	Initializing Control Panel
+5:26:47 PM  [main] 	Windows Version:  Enterprise  64-bit
+5:26:47 PM  [main] 	XAMPP Version: 7.2.12
+5:26:47 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+5:26:47 PM  [main] 	You are not running with administrator rights! This will work for
+5:26:47 PM  [main] 	most application stuff but whenever you do something with services
+5:26:47 PM  [main] 	there will be a security dialogue or things will break! So think 
+5:26:47 PM  [main] 	about running this application with administrator rights!
+5:26:47 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+5:26:47 PM  [main] 	Checking for prerequisites
+5:26:48 PM  [main] 	All prerequisites found
+5:26:48 PM  [main] 	Initializing Modules
+5:26:48 PM  [Apache] 	Problem detected!
+5:26:48 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+5:26:48 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+5:26:48 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+5:26:48 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+5:26:48 PM  [main] 	Starting Check-Timer
+5:26:48 PM  [main] 	Control Panel Ready
+5:26:51 PM  [Apache] 	Problem detected!
+5:26:51 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+5:26:51 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+5:26:51 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+5:26:51 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+5:26:51 PM  [Apache] 	Attempting to start Apache app...
+5:26:51 PM  [Apache] 	Status change detected: running
+5:26:52 PM  [mysql] 	Attempting to start MySQL service...
+5:26:58 PM  [mysql] 	Status change detected: running
+5:54:55 PM  [Apache] 	Attempting to stop Apache (PID: 8124)
+5:54:55 PM  [Apache] 	Attempting to stop Apache (PID: 14448)
+5:54:55 PM  [Apache] 	Status change detected: stopped
+5:54:56 PM  [mysql] 	Attempting to stop MySQL service...
+5:55:01 PM  [mysql] 	Status change detected: stopped
+5:55:31 PM  [main] 	Deinitializing Modules
+5:55:31 PM  [main] 	Deinitializing Control Panel
+
+8:56:16 PM  [main] 	Initializing Control Panel
+8:56:16 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:56:16 PM  [main] 	XAMPP Version: 7.2.12
+8:56:16 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:56:16 PM  [main] 	You are not running with administrator rights! This will work for
+8:56:16 PM  [main] 	most application stuff but whenever you do something with services
+8:56:16 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:56:16 PM  [main] 	about running this application with administrator rights!
+8:56:16 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:56:16 PM  [main] 	Checking for prerequisites
+8:56:16 PM  [main] 	All prerequisites found
+8:56:16 PM  [main] 	Initializing Modules
+8:56:16 PM  [Apache] 	Problem detected!
+8:56:16 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+8:56:16 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:56:16 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:56:16 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:56:16 PM  [main] 	Starting Check-Timer
+8:56:16 PM  [main] 	Control Panel Ready
+8:56:19 PM  [Apache] 	Problem detected!
+8:56:19 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+8:56:19 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:56:19 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:56:19 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:56:19 PM  [Apache] 	Attempting to start Apache app...
+8:56:19 PM  [Apache] 	Status change detected: running
+8:56:20 PM  [mysql] 	Attempting to start MySQL service...
+8:56:27 PM  [mysql] 	Status change detected: running
+1:19:05 AM  [Apache] 	Attempting to stop Apache (PID: 2840)
+1:19:05 AM  [Apache] 	Attempting to stop Apache (PID: 11916)
+1:19:05 AM  [Apache] 	Status change detected: stopped
+1:19:06 AM  [mysql] 	Attempting to stop MySQL service...
+1:19:12 AM  [mysql] 	Status change detected: stopped
+3:01:51 AM  [main] 	Deinitializing Modules
+3:01:51 AM  [main] 	Deinitializing Control Panel
+
+9:56:23 AM  [main] 	Initializing Control Panel
+9:56:23 AM  [main] 	Windows Version:  Enterprise  64-bit
+9:56:24 AM  [main] 	XAMPP Version: 7.2.12
+9:56:24 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:56:24 AM  [main] 	You are not running with administrator rights! This will work for
+9:56:24 AM  [main] 	most application stuff but whenever you do something with services
+9:56:24 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:56:24 AM  [main] 	about running this application with administrator rights!
+9:56:24 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:56:24 AM  [main] 	Checking for prerequisites
+9:56:33 AM  [main] 	All prerequisites found
+9:56:33 AM  [main] 	Initializing Modules
+9:56:33 AM  [Apache] 	Problem detected!
+9:56:33 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+9:56:33 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:56:33 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:56:33 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:56:33 AM  [main] 	Starting Check-Timer
+9:56:33 AM  [main] 	Control Panel Ready
+9:56:36 AM  [Apache] 	Problem detected!
+9:56:36 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+9:56:36 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:56:36 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:56:36 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:56:36 AM  [Apache] 	Attempting to start Apache app...
+9:56:36 AM  [Apache] 	Status change detected: running
+9:56:37 AM  [mysql] 	Attempting to start MySQL service...
+9:56:47 AM  [mysql] 	Status change detected: running
+3:34:11 PM  [mysql] 	Attempting to stop MySQL service...
+3:34:19 PM  [mysql] 	Status change detected: stopped
+3:34:20 PM  [Apache] 	Attempting to stop Apache (PID: 8260)
+3:34:20 PM  [Apache] 	Attempting to stop Apache (PID: 440)
+3:34:20 PM  [Apache] 	Status change detected: stopped
+3:34:23 PM  [Apache] 	Problem detected!
+3:34:23 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+3:34:23 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:34:23 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:34:23 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:34:23 PM  [Apache] 	Attempting to start Apache app...
+3:34:23 PM  [Apache] 	Status change detected: running
+3:34:24 PM  [mysql] 	Problem detected!
+3:34:24 PM  [mysql] 	Port 3306 in use by "Unable to open process"!
+3:34:24 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+3:34:24 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+3:34:24 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+3:34:24 PM  [mysql] 	Attempting to start MySQL service...
+3:34:30 PM  [mysql] 	Status change detected: running
+4:44:19 PM  [Apache] 	Attempting to stop Apache (PID: 2252)
+4:44:19 PM  [Apache] 	Attempting to stop Apache (PID: 7832)
+4:44:19 PM  [Apache] 	Status change detected: stopped
+4:44:20 PM  [mysql] 	Attempting to stop MySQL service...
+4:44:29 PM  [mysql] 	Status change detected: stopped
+4:46:57 PM  [main] 	Deinitializing Modules
+4:46:57 PM  [main] 	Deinitializing Control Panel
+
+4:59:36 PM  [main] 	Initializing Control Panel
+4:59:36 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:59:36 PM  [main] 	XAMPP Version: 7.2.12
+4:59:36 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+4:59:36 PM  [main] 	You are not running with administrator rights! This will work for
+4:59:36 PM  [main] 	most application stuff but whenever you do something with services
+4:59:36 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:59:36 PM  [main] 	about running this application with administrator rights!
+4:59:36 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:59:36 PM  [main] 	Checking for prerequisites
+4:59:37 PM  [main] 	All prerequisites found
+4:59:37 PM  [main] 	Initializing Modules
+4:59:37 PM  [Apache] 	Problem detected!
+4:59:37 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+4:59:37 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:59:37 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:59:37 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:59:37 PM  [main] 	Starting Check-Timer
+4:59:37 PM  [main] 	Control Panel Ready
+4:59:39 PM  [Apache] 	Problem detected!
+4:59:39 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6180!
+4:59:39 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:59:39 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:59:39 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:59:39 PM  [Apache] 	Attempting to start Apache app...
+4:59:40 PM  [Apache] 	Status change detected: running
+4:59:41 PM  [mysql] 	Attempting to start MySQL service...
+4:59:51 PM  [mysql] 	Status change detected: running
+7:03:02 PM  [Apache] 	Attempting to stop Apache (PID: 5064)
+7:03:02 PM  [Apache] 	Attempting to stop Apache (PID: 13344)
+7:03:02 PM  [Apache] 	Status change detected: stopped
+7:03:03 PM  [mysql] 	Attempting to stop MySQL service...
+7:03:10 PM  [mysql] 	Status change detected: stopped
+7:03:13 PM  [main] 	Deinitializing Modules
+7:03:13 PM  [main] 	Deinitializing Control Panel
+
+10:22:56 PM  [main] 	Initializing Control Panel
+10:22:56 PM  [main] 	Windows Version:  Enterprise  64-bit
+10:22:56 PM  [main] 	XAMPP Version: 7.2.12
+10:22:56 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:22:56 PM  [main] 	You are not running with administrator rights! This will work for
+10:22:56 PM  [main] 	most application stuff but whenever you do something with services
+10:22:56 PM  [main] 	there will be a security dialogue or things will break! So think 
+10:22:56 PM  [main] 	about running this application with administrator rights!
+10:22:56 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:22:56 PM  [main] 	Checking for prerequisites
+10:22:58 PM  [main] 	All prerequisites found
+10:22:58 PM  [main] 	Initializing Modules
+10:22:58 PM  [Apache] 	Problem detected!
+10:22:58 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+10:22:58 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:22:58 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:22:58 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:22:58 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+10:22:58 PM  [main] 	Starting Check-Timer
+10:22:58 PM  [main] 	Control Panel Ready
+10:23:23 PM  [Apache] 	Problem detected!
+10:23:23 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+10:23:23 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:23:23 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:23:23 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:23:23 PM  [Apache] 	Attempting to start Apache app...
+10:23:24 PM  [Apache] 	Status change detected: running
+11:53:46 PM  [Apache] 	Attempting to stop Apache (PID: 6684)
+11:53:46 PM  [Apache] 	Attempting to stop Apache (PID: 9056)
+11:53:46 PM  [Apache] 	Status change detected: stopped
+11:53:47 PM  [mysql] 	Attempting to stop MySQL service...
+11:53:55 PM  [mysql] 	Status change detected: stopped
+11:53:56 PM  [main] 	Deinitializing Modules
+11:53:56 PM  [main] 	Deinitializing Control Panel
+
+9:34:10 AM  [main] 	Initializing Control Panel
+9:34:10 AM  [main] 	Windows Version:  Enterprise  64-bit
+9:34:10 AM  [main] 	XAMPP Version: 7.2.12
+9:34:10 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:34:10 AM  [main] 	You are not running with administrator rights! This will work for
+9:34:10 AM  [main] 	most application stuff but whenever you do something with services
+9:34:10 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:34:10 AM  [main] 	about running this application with administrator rights!
+9:34:10 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:34:10 AM  [main] 	Checking for prerequisites
+9:34:12 AM  [main] 	All prerequisites found
+9:34:12 AM  [main] 	Initializing Modules
+9:34:12 AM  [Apache] 	Problem detected!
+9:34:12 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+9:34:12 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:34:12 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:34:12 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:34:12 AM  [main] 	Starting Check-Timer
+9:34:12 AM  [main] 	Control Panel Ready
+9:34:15 AM  [Apache] 	Problem detected!
+9:34:15 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+9:34:15 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:34:15 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:34:15 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:34:15 AM  [Apache] 	Attempting to start Apache app...
+9:34:15 AM  [Apache] 	Status change detected: running
+9:34:16 AM  [mysql] 	Attempting to start MySQL service...
+9:34:23 AM  [mysql] 	Status change detected: running
+7:18:12 PM  [Apache] 	Attempting to stop Apache (PID: 10580)
+7:18:12 PM  [Apache] 	Attempting to stop Apache (PID: 12264)
+7:18:12 PM  [Apache] 	Status change detected: stopped
+7:18:13 PM  [mysql] 	Attempting to stop MySQL service...
+7:18:22 PM  [mysql] 	Status change detected: stopped
+7:19:45 PM  [main] 	Deinitializing Modules
+7:19:45 PM  [main] 	Deinitializing Control Panel
+
+7:47:46 PM  [main] 	Initializing Control Panel
+7:47:47 PM  [main] 	Windows Version:  Enterprise  64-bit
+7:47:47 PM  [main] 	XAMPP Version: 7.2.12
+7:47:47 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:47:47 PM  [main] 	You are not running with administrator rights! This will work for
+7:47:47 PM  [main] 	most application stuff but whenever you do something with services
+7:47:47 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:47:47 PM  [main] 	about running this application with administrator rights!
+7:47:47 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+7:47:47 PM  [main] 	Checking for prerequisites
+7:47:50 PM  [main] 	All prerequisites found
+7:47:50 PM  [main] 	Initializing Modules
+7:47:50 PM  [Apache] 	Problem detected!
+7:47:50 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+7:47:50 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:47:50 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:47:50 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:47:50 PM  [main] 	Starting Check-Timer
+7:47:50 PM  [main] 	Control Panel Ready
+7:47:54 PM  [Apache] 	Problem detected!
+7:47:54 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+7:47:54 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:47:54 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:47:54 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:47:54 PM  [Apache] 	Attempting to start Apache app...
+7:47:54 PM  [Apache] 	Status change detected: running
+7:47:55 PM  [mysql] 	Attempting to start MySQL service...
+7:48:05 PM  [mysql] 	Status change detected: running
+8:33:56 PM  [Apache] 	Attempting to stop Apache (PID: 7452)
+8:33:56 PM  [Apache] 	Attempting to stop Apache (PID: 7340)
+8:33:56 PM  [Apache] 	Status change detected: stopped
+8:33:57 PM  [mysql] 	Attempting to stop MySQL service...
+8:34:03 PM  [main] 	Deinitializing Modules
+8:34:03 PM  [main] 	Deinitializing Control Panel
+
+10:18:57 PM  [main] 	Initializing Control Panel
+10:18:57 PM  [main] 	Windows Version:  Enterprise  64-bit
+10:18:57 PM  [main] 	XAMPP Version: 7.2.12
+10:18:57 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:18:57 PM  [main] 	You are not running with administrator rights! This will work for
+10:18:57 PM  [main] 	most application stuff but whenever you do something with services
+10:18:57 PM  [main] 	there will be a security dialogue or things will break! So think 
+10:18:57 PM  [main] 	about running this application with administrator rights!
+10:18:57 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:18:57 PM  [main] 	Checking for prerequisites
+10:18:58 PM  [main] 	All prerequisites found
+10:18:58 PM  [main] 	Initializing Modules
+10:18:58 PM  [Apache] 	Problem detected!
+10:18:58 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+10:18:58 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:18:58 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:18:58 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:18:58 PM  [main] 	Starting Check-Timer
+10:18:58 PM  [main] 	Control Panel Ready
+10:19:01 PM  [Apache] 	Problem detected!
+10:19:01 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+10:19:01 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:19:01 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:19:01 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:19:01 PM  [Apache] 	Attempting to start Apache app...
+10:19:02 PM  [Apache] 	Problem detected!
+10:19:02 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5880!
+10:19:02 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:19:02 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:19:02 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:19:02 PM  [Apache] 	Attempting to start Apache app...
+10:19:02 PM  [Apache] 	Status change detected: running
+10:19:03 PM  [mysql] 	Attempting to start MySQL service...
+10:19:12 PM  [mysql] 	Status change detected: running
+12:46:12 AM  [Apache] 	Attempting to stop Apache (PID: 14140)
+12:46:12 AM  [Apache] 	Attempting to stop Apache (PID: 12052)
+12:46:12 AM  [mysql] 	Attempting to stop MySQL service...
+12:46:12 AM  [Apache] 	Status change detected: stopped
+12:46:17 AM  [mysql] 	Status change detected: stopped
+12:46:19 AM  [main] 	Deinitializing Modules
+12:46:19 AM  [main] 	Deinitializing Control Panel
+
+3:35:28 PM  [main] 	Initializing Control Panel
+3:35:28 PM  [main] 	Windows Version:  Enterprise  64-bit
+3:35:28 PM  [main] 	XAMPP Version: 7.2.12
+3:35:28 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+3:35:28 PM  [main] 	You are not running with administrator rights! This will work for
+3:35:28 PM  [main] 	most application stuff but whenever you do something with services
+3:35:28 PM  [main] 	there will be a security dialogue or things will break! So think 
+3:35:28 PM  [main] 	about running this application with administrator rights!
+3:35:28 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:35:28 PM  [main] 	Checking for prerequisites
+3:35:31 PM  [main] 	All prerequisites found
+3:35:31 PM  [main] 	Initializing Modules
+3:35:31 PM  [Apache] 	Problem detected!
+3:35:31 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5140!
+3:35:31 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:35:31 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:35:31 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:35:31 PM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+3:35:31 PM  [main] 	Starting Check-Timer
+3:35:31 PM  [main] 	Control Panel Ready
+3:35:33 PM  [Apache] 	Problem detected!
+3:35:33 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5140!
+3:35:33 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:35:33 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:35:33 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:35:33 PM  [Apache] 	Attempting to start Apache app...
+3:35:34 PM  [Apache] 	Status change detected: running
+4:13:49 PM  [mysql] 	Attempting to stop MySQL service...
+4:14:02 PM  [Apache] 	Attempting to stop Apache (PID: 2532)
+4:14:02 PM  [Apache] 	Attempting to stop Apache (PID: 6768)
+4:14:02 PM  [Apache] 	Status change detected: stopped
+4:14:05 PM  [mysql] 	Status change detected: stopped
+4:14:07 PM  [main] 	Deinitializing Modules
+4:14:07 PM  [main] 	Deinitializing Control Panel
+
+1:08:22 AM  [main] 	Initializing Control Panel
+1:08:22 AM  [main] 	Windows Version:  Enterprise  64-bit
+1:08:22 AM  [main] 	XAMPP Version: 7.2.12
+1:08:22 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+1:08:22 AM  [main] 	You are not running with administrator rights! This will work for
+1:08:22 AM  [main] 	most application stuff but whenever you do something with services
+1:08:22 AM  [main] 	there will be a security dialogue or things will break! So think 
+1:08:22 AM  [main] 	about running this application with administrator rights!
+1:08:22 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+1:08:22 AM  [main] 	Checking for prerequisites
+1:08:30 AM  [main] 	All prerequisites found
+1:08:30 AM  [main] 	Initializing Modules
+1:08:30 AM  [Apache] 	Problem detected!
+1:08:30 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6632!
+1:08:30 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+1:08:30 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+1:08:30 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+1:08:30 AM  [mysql] 	XAMPP MySQL Service is already running on port 3306
+1:08:31 AM  [main] 	Starting Check-Timer
+1:08:31 AM  [main] 	Control Panel Ready
+1:08:36 AM  [mysql] 	Attempting to stop MySQL service...
+1:08:47 AM  [mysql] 	Status change detected: stopped
+1:08:48 AM  [main] 	Deinitializing Modules
+1:08:48 AM  [main] 	Deinitializing Control Panel
+
+9:32:20 AM  [main] 	Initializing Control Panel
+9:32:20 AM  [main] 	Windows Version:  Enterprise  64-bit
+9:32:20 AM  [main] 	XAMPP Version: 7.2.12
+9:32:20 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:32:20 AM  [main] 	You are not running with administrator rights! This will work for
+9:32:20 AM  [main] 	most application stuff but whenever you do something with services
+9:32:20 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:32:20 AM  [main] 	about running this application with administrator rights!
+9:32:20 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:32:20 AM  [main] 	Checking for prerequisites
+9:32:21 AM  [main] 	All prerequisites found
+9:32:21 AM  [main] 	Initializing Modules
+9:32:21 AM  [Apache] 	Problem detected!
+9:32:21 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6632!
+9:32:21 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:32:21 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:32:21 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:32:21 AM  [main] 	Starting Check-Timer
+9:32:21 AM  [main] 	Control Panel Ready
+9:32:23 AM  [Apache] 	Problem detected!
+9:32:23 AM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 6632!
+9:32:23 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:32:23 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:32:23 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:32:23 AM  [Apache] 	Attempting to start Apache app...
+9:32:24 AM  [Apache] 	Status change detected: running
+9:32:24 AM  [mysql] 	Attempting to start MySQL service...
+9:32:29 AM  [mysql] 	Status change detected: running
+10:43:05 AM  [Apache] 	Attempting to stop Apache (PID: 6440)
+10:43:05 AM  [Apache] 	Attempting to stop Apache (PID: 12596)
+10:43:05 AM  [Apache] 	Status change detected: stopped
+10:43:06 AM  [mysql] 	Attempting to stop MySQL service...
+10:43:10 AM  [mysql] 	Status change detected: stopped
+10:43:12 AM  [main] 	Deinitializing Modules
+10:43:12 AM  [main] 	Deinitializing Control Panel
+

@@ -1,0 +1,95 @@
+ PMA_token |s:16:""YEd~|XE-|u1/c9#";browser_access_time|a:2:{s:7:"default";i:1545301383;s:36:"1d4e136c-adf5-7b62-6c5c-4a118e4adb3b";i:1545302827;}relation|a:1:{i:1;a:22:{s:11:"PMA_VERSION";s:5:"4.8.3";s:7:"relwork";b:0;s:11:"displaywork";b:0;s:12:"bookmarkwork";b:0;s:7:"pdfwork";b:0;s:8:"commwork";b:0;s:8:"mimework";b:0;s:11:"historywork";b:0;s:10:"recentwork";b:0;s:12:"favoritework";b:0;s:11:"uiprefswork";b:0;s:12:"trackingwork";b:0;s:14:"userconfigwork";b:0;s:9:"menuswork";b:0;s:7:"navwork";b:0;s:17:"savedsearcheswork";b:0;s:18:"centralcolumnswork";b:0;s:20:"designersettingswork";b:0;s:19:"exporttemplateswork";b:0;s:8:"allworks";b:0;s:4:"user";N;s:2:"db";N;}}cache|a:3:{s:13:"server_1_root";a:18:{s:14:"mysql_cur_user";s:14:"root@localhost";s:17:"is_create_db_priv";b:1;s:14:"is_reload_priv";b:1;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:1:"*";}s:11:"dbs_to_test";b:0;s:9:"proc_priv";b:1;s:10:"table_priv";b:1;s:8:"col_priv";b:1;s:7:"db_priv";b:1;s:12:"is_grantuser";b:1;s:13:"is_createuser";b:1;s:12:"is_superuser";b:1;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:9:"Databases";s:3:"sql";s:3:"SQL";s:6:"status";s:6:"Status";s:6:"rights";s:5:"Users";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:8:"settings";s:8:"Settings";s:6:"binlog";s:10:"Binary log";s:11:"replication";s:11:"Replication";s:4:"vars";s:9:"Variables";s:7:"charset";s:8:"Charsets";s:7:"plugins";s:7:"Plugins";s:6:"engine";s:7:"Engines";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:9:"Structure";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Search";s:17:"multi_table_query";s:5:"Query";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:9:"operation";s:10:"Operations";s:10:"privileges";s:10:"Privileges";s:8:"routines";s:8:"Routines";s:6:"events";s:6:"Events";s:8:"triggers";s:8:"Triggers";s:8:"tracking";s:8:"Tracking";s:8:"designer";s:8:"Designer";s:15:"central_columns";s:15:"Central columns";}s:19:"profiling_supported";b:1;s:17:"menu-levels-table";a:11:{s:6:"browse";s:6:"Browse";s:9:"structure";s:9:"Structure";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Search";s:6:"insert";s:6:"Insert";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:10:"privileges";s:10:"Privileges";s:9:"operation";s:10:"Operations";s:8:"tracking";s:8:"Tracking";s:8:"triggers";s:8:"Triggers";}}s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1545301383;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1545123020;s:9:"userprefs";a:2:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:15:"NavigationWidth";i:328;}}s:13:"version_check";a:2:{s:8:"response";s:423:"{
+    "date": "2018-12-11", 
+    "version": "4.8.4", 
+    "releases": [
+        {
+            "date": "2018-12-11", 
+            "php_versions": ">=5.5,<7.3", 
+            "version": "4.8.4", 
+            "mysql_versions": ">=5.5"
+        }, 
+        {
+            "date": "2017-03-29", 
+            "php_versions": ">=5.2,<5.3", 
+            "version": "4.0.10.20", 
+            "mysql_versions": ">=5.0"
+        }
+    ]
+}";s:9:"timestamp";i:1545301234;}}userconfig|a:2:{s:2:"db";a:2:{s:12:"Console/Mode";s:8:"collapse";s:15:"NavigationWidth";i:328;}s:2:"ts";i:1545301383;}two_factor_check|b:1;is_git_revision|b:0;tmpval|a:16:{s:15:"favorite_tables";a:1:{i:1;a:0:{}}s:13:"recent_tables";a:1:{i:1;a:1:{i:0;a:2:{s:2:"db";s:6:"appmaa";s:5:"table";s:24:"appmaa_clinic_department";}}}s:5:"query";a:10:{s:32:"0a9b549a4ef31f07c6f4fbbaa31831cb";a:8:{s:3:"sql";s:235:"-- phpMyAdmin SQL Dump
+-- version 4.8.3
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Generation Time: Dec 20, 2018 at 09:51 AM
+-- Server version: 10.1.37-MariaDB
+-- PHP Version: 7.2.12
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO"";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"b2bc5b648e31b8db97bde818fe782915";a:8:{s:3:"sql";s:18:"SET AUTOCOMMIT = 0";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"b7a6fa97fec98c06f9586d23935ac4c6";a:8:{s:3:"sql";s:17:"START TRANSACTION";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"63e7a4d3977e7e5d12102840781d41e9";a:8:{s:3:"sql";s:24:"SET time_zone = "+00:00"";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"8503ac68f5f9217bc5b7007d0872621b";a:8:{s:3:"sql";s:64:"/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"c6b692a30eb3aa10d4f06c9b02aa6962";a:8:{s:3:"sql";s:66:"/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"535de63e3dc7a4141a817d09a8d45fb6";a:8:{s:3:"sql";s:64:"/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"65cc52af3a57bea57b002e22b4d27edc";a:8:{s:3:"sql";s:29:"/*!40101 SET NAMES utf8mb4 */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"e6c1963e8a5425a04c6b0164be8246d1";a:8:{s:3:"sql";s:1408:"--
+-- Database: `appmaa`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `appmaa_clinic_patient`
+--
+
+CREATE TABLE `appmaa_clinic_patient` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `patient_name` varchar(255) CHARACTER SET utf8mb4 NOT NULL,
+  `patient_surname` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `father_name` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  `age_years_months` text COLLATE utf8mb4_unicode_ci,
+  `gender` text COLLATE utf8mb4_unicode_ci,
+  `created_by` int(10) UNSIGNED DEFAULT NULL,
+  `updated_by` int(10) UNSIGNED DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  `address_1` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `address_2` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `city` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `state` int(10) DEFAULT NULL,
+  `pin_code` varchar(50) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `mobile_number` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `phone_number` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `organization_activation_status` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `aadhar_number` varchar(100) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `is_employee` tinyint(1) DEFAULT '0'
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"96c816efb6da3cee64707723a773b98e";a:8:{s:3:"sql";s:40:"SELECT * FROM `appmaa_clinic_department`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";s:1:"0";s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:6:"appmaa";s:13:"table_uiprefs";a:1:{i:1;a:1:{s:6:"appmaa";a:1:{s:24:"appmaa_clinic_department";a:0:{}}}}s:20:"possible_as_geometry";b:1;}ConfigFile1|a:2:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}__upload_status|a:1:{s:7:"handler";s:47:"PhpMyAdmin\Plugins\Import\Upload\UploadNoplugin";}Import_message|a:2:{s:7:"message";s:1444:"<div class="error"><h1>Error</h1><p><strong>SQL query:</strong>
+    </p>
+<p>
+<code class="sql"><pre>
+--
+-- Database: `appmaa`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `appmaa_clinic_patient`
+--
+
+CREATE TABLE `appmaa_clinic_patient` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `patient_name` varchar(255) CHARACTER SET utf8mb4 NOT NULL,
+  `patient_surname` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `father_name` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  `age_years_months` text COLLATE utf8mb4_unicode_ci,
+  `gender` text COLLATE utf8mb4_unicode_ci,
+  `created_by` int(10) UNSIGNED DEFAULT NULL,
+  `updated_by` int(10) UNSIGNED DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  `address_1` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `address_2` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `city` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `state` int(10) DEFAULT NULL,
+  `pin_code` varchar(50) CHARACTER SET utf8mb4 [...]
+</pre></code>
+</p>
+<p>
+    <strong>MySQL said: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Ferror-messages-server.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help" /></a>
+</p>
+<code>#1046 - No database selected</code><br/></div>";s:11:"go_back_url";s:17:"server_import.php";}is_multi_query|b:0;sql_history|a:1:{i:0;a:3:{s:2:"db";s:6:"appmaa";s:5:"table";s:24:"appmaa_clinic_department";s:8:"sqlquery";s:40:"SELECT * FROM `appmaa_clinic_department`";}}errors|a:0:{}
